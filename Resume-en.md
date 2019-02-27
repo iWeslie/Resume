@@ -1,119 +1,83 @@
-# Resume
-
-Yongkang Chen's Resume 
+# Yongkang Chen
 
 ## Profile
 
-- Name: Yongkang Chen
-- Gender: Male
-- Birth Date: 01/01/1999
-- University: Nanjing Institute of Technology
-- Major: Computer Science
+Served as an iOS developer and project manager in the startup team. Experienced in medium and large iOS projects. Have some insights into iOS development, design patterns and app architecture.
 
-## Contact Info
+Currently in junior year, have iOS development experience for more than a year, proficient in Swift language and be able to develop a complete iOS application independently.
+
+## Contacts
 
 - Phone: +86 17302535735
-- Email：iwesliechen@gmail.com
-- WeChat：weslie-chen
-- GitHub：https://github.com/iWeslie
-- Personal Website：http://www.iweslie.com
+- Email：[iwesliechen@gmail.com](mailto:iwesliechen@gmail.com)
+- GitHub：<https://github.com/iWeslie>
+- Personal Blog：[http://www.iweslie.com](http://www.iweslie.com/)
 
-## Education Experience
+## Education
 
 ### University
 
-- Nanjing Institute of Technology (09/2016 - 06/2020)
-  - Bachelor's Degree: Computer Science
+- **Nanjing Institute of Technology (Sept 2016-June 2020)**
+  - **Major:** Computer Science, B.Sc. CS
+  - **Scholarship:** 2017-2018 Annual College Scholarship
+  - **Programming Coursework:** Algorithms & Data Structures, Operating Systems, Networks, Database, Java OOP Programming
+  - **EE Coursework:** Embedded Systems, Computer Arch., Circuits, Logic Design, VHDL Design, Signal Processing
 
-### High School
+## Employment
 
-- Jiangsu Jingjiang Middle School(09/2013 - 06/2016)
+#### Mobile Development Engineer, Intern —— NJ. Brilliance I.E. PLC. (Nov 2018-Dec 2018)
 
-## Self Intruduction
+**[Smart Classroom](https://www.yice365.com/indexWeb.html):** Cross-platform app developed for school teachers for student assignments and classroom management 
 
-Served as an iOS developer and project manager in a startup team. Experience in medium and large iOS projects, with some experience and insights on iOS development, design patterns, and app architecture.
+- Integrated App Settings, implemented functional module based on CBD.
+- Utilized Redux and Immutable to implement one-way data flow application state management and Flux for page layout and constraints.
+- <u>Leveraged knowledge</u> in React Native, node JS, npm, Redux, and CI using Jenkins, debugged using Chrome Developer Tools.
 
-Currently still in hardly learning, Junior in the university. Have more than one year of iOS development experience, familiar with the Swift programming language, and be able to independently develop a complete iOS Application and distribute it to App Store.
+------
 
-## Skills
+#### iOS Developer, Intern —— Nanjing Qinglv Network Co., Ltd (07/2017 - 06/2018)
 
-### Proficent
+**[Neighborhoods](https://itunes.apple.com/cn/app/%E9%82%BB%E9%87%8C%E5%B8%AE-%E7%A4%BE%E5%8C%BA%E4%BA%91%E6%B2%BB%E7%90%86%E5%B9%B3%E5%8F%B0/id1316363309?l=en&mt=8):** A community cloud management platform iOS application developed for the Nanjing Gulou Government
 
-- iOS development
-- Swift
+- Design project architecture, participate in the module division, and shorten the development cycle by 20%.
+- Improving development efficiency significantly throung using storyboard with UIDesignable for UI layout and constraints.
+- Remove 60% of redundant code by encapsulating the network request framework. Introducing MVVM design pattern to decouple view model from controllers.
+- <u>Leveraged knowledge</u> in Swift, Xcode, Git, and managed third-party dependencies using Pod and Carthage, debugged using lldb and breakpoint commands, etc. Analyze performance, detect memory leaks and zombies using Instruments.
 
-### Well Know
+## Projects
 
-- UI/UX design
-- Git
+##### Personal Website：[http://www.iweslie.com](http://www.iweslie.com) (for additional information and projects)
 
-### Know about
+#### 「**Simple Reader**」([App Store link]( <https://itunes.apple.com/cn/app/simplereader/id1442458071?l=en&mt=8>))
 
-- Objective-C
-- C
-- Java
-- Python
-- TypeScript
-- HTML, CSS, JavaScript
-- DataBase, SQL
+- Developed an minimalist style iOS application using Swift that allows users to read motto.
+- Design UI with Sketch then export to Flinto to design UX and specific interaction logic.
+- Establish a relational database together with visually managing on the LeanCloud BaaS platform. Interact with the backend through SDK in the app.
+- Incorporated persistent data storage to archive motto. Leveraged caching for recently accessed and user comments.
+- Added dynamic binding for UIButton by Runtime and pass click events through closures.
+- **Utilized:** Swift, Runtime, Local Persistent Data, Caching, Database, UI/UX, Degign Patterns, Localization
 
-## Personal Projects
+##### Others:
 
-### iOS App
-
-- 「[Neighbourhoods](https://itunes.apple.com/cn/app/邻里帮-社区云治理平台/id1316363309?l=en&mt=8)」An application developed for the Nanjing Gulou Government, the Neighborhood Community Community Cloud Management Service APP is a traditional theme of "Neighborhood Support, Watching and Helping", improving the relationship between neighbors, promoting the unity of mutual solidarity, mutual assistance and harmony, and building a harmonious family. It is a warm and harmonious new community application.
-  - The "Neighbourhoods" was cooperated with the Nanjing Gulou Government and published on the [Nanjing Daily](http://njrb.njdaily.cn/njrb/html/2018-08/28/content_510739.htm?div=-1).
-- 「[Partner](https://itunes.apple.com/cn/app/合伙人-青秘/id1360096509?l=en&mt=8)」Partner APP is an online investment and entrepreneurial platform developed for entrepreneurs and investors, and realizes online interaction and friendship. It provides more convenient business service exchange and a interactive platform for investors and entrepreneurs.
-  - "Partner" was cooperated with Nanjing Jiangning Partner Creative Space.
-
-### Other Projects
-
-- 「[Amazing Dynamic View](https://github.com/iWeslie/WWDC18)」Apple WWDC18 Scholarship Entries [YouTube Demo](https://youtu.be/nokdtApjAsg)
-- 「[UIObjects](https://github.com/iWeslie/UIObject)」A collection of works used to display iOS basic UI objects
-- 「[Ant](https://github.com/iWeslie/Ant)」A platform for housing leasing, second-hand market, job hunting for overseas Chinese
-- 「[ITPS-Hybrid](https://github.com/iWeslie/ITPS-Hybrid)」A hybrid development app using TypeScript on the Ionic platform
-
-## Social Activities
-
-- Submit work for Apple WWDC18 Scholarship
-
-- Participate [Google Develop Group](https://chinagdg.org/p/gdg-nanjing/), Nanjing
-
-- Sign up [Harvard Summit for Young Leaders in China](http://www.hsylc.org)
-
-- Attend [Alibaba YunQi Summit Meeting](https://yunqi.youku.com/2018/nanjing/index), Nanjing
-
-- Attend HUAWEI Ecological Travelling Summit Meeting, Nanjing
-
-## Rewards
-
-- 2016-2017 Annual College Scholarship
+- Translated and proofread dozens of technical English articles such as "[iOS Design Patterns](https://juejin.im/user/5bc836776fb9a05d1478541e/posts)" in the "[xitu/gold-miner](https://github.com/xitu/gold-miner)" on GitHub.
+- 「[**Amazing Dynamic View**](https://github.com/iWeslie/WWDC18)」Apple WWDC18 Scholarship Entries [YouTube Demo](https://youtu.be/nokdtApjAsg)
+- 「**Ant**」A platform for housing leasing, second-hand market, job hunting for overseas Chinese
+- 「**ITPS-Hybrid**」A hybrid development app using TypeScript on the Ionic platform
+- 「**UlObjects**」A collection of works used to display iOS basic UI objects
 
 ## Certificates
 
-- 「[AliCloud University Apsara Clouder Cloud Computing Skills Certification](http://iweslie.com/ali_cloud_certificate.jpg)」
 - 「[Stanford ONLINE Machine Learning](http://iweslie.com/ML%20certification.pdf)」
+- 「[AliCloud University Apsara Clouder Cloud Computing Skills Certification](http://iweslie.com/ali_cloud_certificate.jpg)」
 
-## Language Skills
+## Skills
 
-- CET-4: 581
-- IELTS: 7.0
+(Proficent): iOS development, Swift, Algorithms & Data Structures, Git
+(familiar):  Java, C, JavaScript, Python, HTTP/Socket, Linux, SQL, HTML/CSS
 
-## Campus Life
+## New Technology & Open Source
 
-- Students Mass Organization Union at Nanjing Institute of Technology, Nanjing
-  - Clerk in publicity department
-
-## Internships
-
-- Nanjing Qinglv Network Co., Ltd(07/2017 - 06/2018)
-  - iOS Software Engineer
-  - Mainly responsible for the development of various iOS projects, project architecture designing, bug testing, performance optimization, black and white box testing, App Store distribution, update iteration, and collaborative development with colleagues.
-  - Total 2 Apps distributed to App Store.
-
-## Personal Hobbies
-
-- Photography
-- Coffee
-- UI/UX design
-- Travelling
+- Encapsulate popular open source framework such as AFNetworking, Alamofire, Kingfisher, MJExtension , SVProgressHUD, etc. and use them in "Neighborhoods", "Partners", and "Simple" projects. 
+- Submit a pull request for the "BulletinBoard" open source iOS library, which resolves the crash caused by some code.
+- Create AR version of Stack game with AR-based face tracking recognition
+- Develop a small image recognition classification based on Resnet50 and other models using CoreML and Vision frameworks
