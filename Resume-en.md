@@ -35,32 +35,33 @@ Currently in junior year, have iOS development experience for more than a year, 
 
 ------
 
-#### iOS Developer, Intern —— Nanjing Qinglv Network Co., Ltd (07/2017 - 06/2018)
+#### iOS Developer, Intern —— Nanjing Qinglv Network Co., Ltd (Jul 2017 - Jun 2018)
 
 **[Neighborhoods](https://itunes.apple.com/cn/app/%E9%82%BB%E9%87%8C%E5%B8%AE-%E7%A4%BE%E5%8C%BA%E4%BA%91%E6%B2%BB%E7%90%86%E5%B9%B3%E5%8F%B0/id1316363309?l=en&mt=8):** A community cloud management platform iOS application developed for the Nanjing Gulou Government
 
-- Design project architecture, participate in the module division, and shorten the development cycle by 20%.
+- Design project architecture, participate in the module division and shorten the development cycle by 20%.
 - Improving development efficiency significantly throung using storyboard with UIDesignable for UI layout and constraints.
-- Remove 60% of redundant code by encapsulating the network request framework. Introducing MVVM design pattern to decouple view model from controllers.
+- Remove 40% of redundant code by encapsulating the network request framework. Introducing MVVM design pattern to decouple view model from controllers.
 - <u>Leveraged knowledge</u> in Swift, Xcode, Git, and managed third-party dependencies using Pod and Carthage, debugged using lldb and breakpoint commands, etc. Analyze performance, detect memory leaks and zombies using Instruments.
 
 ## Projects
 
 ##### Personal Website：[http://www.iweslie.com](http://www.iweslie.com) (for additional information and projects)
 
-#### 「**Simple Reader**」([App Store link]( <https://itunes.apple.com/cn/app/simplereader/id1442458071?l=en&mt=8>))
+#### 「**Simple Reader**」([App Store link](https://itunes.apple.com/cn/app/simplereader/id1442458071?l=en&mt=8))
 
 - Developed an minimalist style iOS application using Swift that allows users to read motto.
 - Design UI with Sketch then export to Flinto to design UX and specific interaction logic.
 - Establish a relational database together with visually managing on the LeanCloud BaaS platform. Interact with the backend through SDK in the app.
 - Incorporated persistent data storage to archive motto. Leveraged caching for recently accessed and user comments.
 - Added dynamic binding for UIButton by Runtime and pass click events through closures.
-- **Utilized:** Swift, Runtime, Local Persistent Data, Caching, Database, UI/UX, Degign Patterns, Localization
+- **Utilized:** Swift, Runtime, Local Persistent Data, Caching, Database, UI/UX, Design Patterns, Localization
 
 ##### Others:
 
-- Translated and proofread dozens of technical English articles such as "[iOS Design Patterns](https://juejin.im/user/5bc836776fb9a05d1478541e/posts)" in the "[xitu/gold-miner](https://github.com/xitu/gold-miner)" on GitHub.
-- 「[**Amazing Dynamic View**](https://github.com/iWeslie/WWDC18)」Apple WWDC18 Scholarship Entries [YouTube Demo](https://youtu.be/nokdtApjAsg)
+- 「**Journey to WS-0326D**」Apple WWDC19 Scholarship Winner work
+- Translated and proofread dozens of technical English articles such as "[iOS Design Patterns](https://juejin.im/user/5bc836776fb9a05d1478541e/posts)" in a 20+ Star repo "[xitu/gold-miner](https://github.com/xitu/gold-miner)" on GitHub.
+- 「**Contacts**」An embedded contacts system developed in C on ARM-based NanoPi
 - 「**Ant**」A platform for housing leasing, second-hand market, job hunting for overseas Chinese
 - 「**ITPS-Hybrid**」A hybrid development app using TypeScript on the Ionic platform
 - 「**UlObjects**」A collection of works used to display iOS basic UI objects
@@ -73,7 +74,7 @@ Currently in junior year, have iOS development experience for more than a year, 
 ## Skills
 
 (Proficent): iOS development, Swift, Algorithms & Data Structures, Git
-(familiar):  Java, C, JavaScript, Python, HTTP/Socket, Linux, SQL, HTML/CSS
+(Familiar):  Java, C/C++, JavaScript, Python, HTTP/Socket, Linux, SQL, HTML/CSS
 
 ## New Technology & Open Source
 

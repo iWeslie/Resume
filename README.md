@@ -41,14 +41,14 @@
 
 - 设计App整体项目架构，参加模块划分，使得开发周期比预期缩短 20%
 - 使用storyboard结合旧Designable来进行UI布局及约束，显著提升开发效率
-- 通过封装网络请求框架去除了 60% 的冗余代码，在重构过程中还引入 MVVM 设计模式实现了对 90% 的视图模型的抽离，达到了控制器瘦身和解耦的效果
+- 通过封装 AFNetworking ⽹络请求框架去除了 40% 的冗余代码，在重构过程中还引⼊ MVVM 设计模式实现了 对 90% 的视图模型的抽离，达到了控制器瘦身和解耦的效果
 - **利用知识：** Swift, Xcode, Git, 使用 Pod 与 Carthage 管理第三方依赖库, lldb 和断点命令等进行 debug 阶段调试, Instruments 对 App 进行性能分析及检测内存问题
 
 ## 个人作品
 
 ##### 个人主页：[http://www.iweslie.com](http://www.iweslie.com)（详情更多信息和项目介绍）
 
-#### 「**Simple  简 • 阅**」（[App Store 链接](https://itunes.apple.com/cn/app/%E9%82%BB%E9%87%8C%E5%B8%AE-%E7%A4%BE%E5%8C%BA%E4%BA%91%E6%B2%BB%E7%90%86%E5%B9%B3%E5%8F%B0/id1316363309?l=en&mt=8)）
+#### 「**Simple  简 • 阅**」（[App Store 链接](https://itunes.apple.com/cn/app/simplereader/id1442458071?l=en&mt=8)）
 
 - 基于 Swift 开发的一款极简风格的英文句子赏析阅读类 iOS App
 - 使用 Sketch 绘制 UI 界面并导出到 Flinto 再设计交互逻辑和具体动画效果 
@@ -59,11 +59,12 @@
 
 ##### 其他作品与项目：
 
-- 为 GitHub 上掘金组织的 ”掘金翻译计划“ 翻译校对《[iOS设计模式](https://juejin.im/user/5bc836776fb9a05d1478541e/posts)》等数十篇技术类英文文章
-- 「**[Amazing  Dynamic View](https://github.com/iWeslie/WWDC18)**」苹果开发者大会 WWDC18 参赛作品（[视频演示](https://youtu.be/nokdtApjAsg)）
+- 「**Journey to WS-0326D**」苹果开发者大会 WWDC19 Apple Scholarship 奖学金获奖作品
+- 为 GitHub 上 20k+ Star 的 “[掘金翻译计划](https://github.com/xitu/gold-miner)” 翻译校对《[iOS 设计模式](https://juejin.im/user/5bc836776fb9a05d1478541e/posts)》等数十篇技术类英文文章
+- 「**Contacts**」一款在基于 ARM 的 NanoPi 上使用 C 开发的嵌入式通讯录系统
 - 「**小蚂蚁**」iOS上一款致力于为华侨而打造的房屋租赁、二手市场、求职招聘的平台
-- 「**ITPS-Hybrid**」一款基于Ionic平台使用TypeScript混合开发的App
-- 「**UlObjects**」一套用于展示iOS基础UI控件的作品集合
+- 「**ITPS-Hybrid**」一款基于 Ionic 平台使用 TypeScript 混合开发的 App
+- 「**UlObjects**」一套用于展示 iOS 基础 UI 控件的作品集合
 
 ## 证书
 
@@ -73,7 +74,7 @@
 ## 技能
 
 （**熟练掌握**）：iOS开发，Swift，Xcode，算法与数据结构，Git
-（**熟悉**）：Java，C，JavaScript，Python，HTTP/Socket 通信原理，Linux，SQL，HTML/CSS
+（**熟悉**）：Objective-C，Java，C/C++，JavaScript，Python，Linux，SQL，HTML/CSS
 
 ## 新技术&开源
 
